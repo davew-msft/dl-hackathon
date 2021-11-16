@@ -14,7 +14,7 @@ Passcode: 564848
 ## 11/16/2021 Agenda
 
 * [Why do data projects fail?](./files/WhyDataProjectsFail.pdf) 
-* Design Thinking/Rapid Prototyping
+* [Design Thinking/Rapid Prototyping](https://files.davewentzel.com/s/CgypcYETmxsQqnt):  hopefully this link works.  
 
 **After discussing with Professor Pursell, we are going to change topics/agenda.  If you want to see the original content of this workshop just switch to the `original` branch in git. Just ask if you want the full workshop with solutions too.**
 
