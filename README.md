@@ -11,6 +11,11 @@ Passcode: 564848
 -->    
 * 11:00-12:15
 
+## 11/16/2021 Agenda
+
+* [Why do data projects fail?](./files/WhyDataProjectsFail.pdf) 
+* Design Thinking/Rapid Prototyping
+
 **After discussing with Professor Pursell, we are going to change topics/agenda.  If you want to see the original content of this workshop just switch to the `original` branch in git. Just ask if you want the full workshop with solutions too.**
 
 Here are some topic ideas...feel free to vote or let Prof Pursell know if any of this is interesting.  Common feedback I receive is that I have a LOT of ideas, but very few are good.  That's a symptom of a good Design Thinker.  I'm interested in your feedback.  
